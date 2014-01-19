@@ -1,6 +1,8 @@
 Online-Library (Web Application)
 ================================
-
+*******************************
+Due to security rule in Mercer, online library is a in use web application, only part of the project are allowed to show
+*******************************
 Co-conducted new web application which could upload, download and search internal files
 
 ASP.NET as framework and C# in backend, Ajax to communicate between frontend and server
