@@ -3,7 +3,7 @@ Online-Library (Web Application)
 *******************************
 Contributor: Chi Zhang(Ace) Zeyu Zhao(Edison) Hongmi Chen(Cindy)
 
-Due to security rule in Mercer, online library is a in use web application, only part of the project is allowed to show
+Due to the security rule in Mercer, online library is an in use web application, only part of the project is allowed to show
 *******************************
 Co-conducted new web application which could upload, download and search internal files
 
